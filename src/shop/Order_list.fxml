@@ -11,7 +11,7 @@
    <children>
       <TableView fx:id="Table" layoutY="52.0" prefHeight="475.0" prefWidth="800.0">
          <columns>
-            <TableColumn fx:id="O_num" prefWidth="113.0" text="O_num" />
+            <TableColumn fx:id="O_num" prefWidth="113.0" text="Number" />
             <TableColumn fx:id="User" prefWidth="140.0" text="User" />
             <TableColumn fx:id="name" prefWidth="254.0" text="name" />
             <TableColumn fx:id="quantity" prefWidth="143.0" style="-fx-alignment: CENTER-RIGHT;" text="quantity" />
